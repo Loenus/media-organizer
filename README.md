@@ -1,5 +1,6 @@
 # Media Orginizer
-Organizza foto e video
+Organizza foto e video.  
+In questi ultimi 2-3 giorni ho scritto questo programma (partendo da zero conoscenze di batch e di exiftool) per un esigenza personale: organizzare le foto attraverso il filename e la creazione, in automatico, di cartelle anno/mese
 
 ## Come funziona
 All'avvio del programma vi chiederà il **path** (*assoluto*, o *relativo* rispetto a dove avete scaricato il programma) dove si trovano i media da organizzare.
